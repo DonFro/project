@@ -23,7 +23,7 @@ def convert_wav(file_path):
 
         return wav_file_path
     else:
-        print("Unsupported file format. Please provide a .wav, .mp3, or .aac file.")
+        print("Unsupported file format. Please provide a .wav, .mp3, or .aac file")
         return None
 
 
